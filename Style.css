@@ -82,3 +82,15 @@ table img {
     width: 60px;
     height: 80px;
 }
+
+.credits {
+    background-color: brown;
+    padding: 30px;
+    color: white;
+    font-size: 24px;
+}
+
+.credits:hover {
+    transform: rotate(15deg);
+    transition: ease-in-out 10ms;
+}
